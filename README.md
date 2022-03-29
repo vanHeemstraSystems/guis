@@ -1,5 +1,5 @@
 guis
-# GUIs
+# Graphical User Interfaces (GUIs)
 
 | Group   |      Member      |  Software |
 |----------|:-------------|------:|
